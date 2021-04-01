@@ -74,7 +74,7 @@ const Dashboard: React.FC = () => {
           </div>
           <div>
             <img src={twitter} alt="" />
-            <h3>Twitter clone</h3>
+            <h3>twitter clone</h3>
           </div>
           <div>
             <img src={ecoleta} alt="" />
